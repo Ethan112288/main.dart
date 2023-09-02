@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366599856207",
+    "firebase_url": "https://brietennis-807ac-default-rtdb.firebaseio.com",
+    "project_id": "brietennis-807ac",
+    "storage_bucket": "brietennis-807ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366599856207:android:ab47947e58fc9ad9d18a3a",
+        "android_client_info": {
+          "package_name": "com.briegroup.brie_tennis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366599856207-7aebefic4bjodck4dngpqs83v2rfrb66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBU3S5RHR0-LAT4sqb_GdYWaggcmlbdx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366599856207-7aebefic4bjodck4dngpqs83v2rfrb66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
